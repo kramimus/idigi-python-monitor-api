@@ -26,3 +26,8 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 
+# vim and emacs
+*~
+#*#
+.#*
+*.swp
